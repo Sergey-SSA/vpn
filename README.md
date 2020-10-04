@@ -1,4 +1,4 @@
-# vpn
+# VPN
 1. Между двумя виртуалками поднять vpn в режимах
 - tun
 - tap
@@ -8,13 +8,13 @@
 
 Проверка на сервере:
 
-![Image alt](https://github.com/Sergey-SSA/vpn/printscreen/1.png)
+![Image alt](https://github.com/Sergey-SSA/vpn/blob/master/printscreen/1.png)
 
 Сервер и клиент связаны тунелем в режиме tap интерфейсом br0
 
-![Image alt](https://github.com/Sergey-SSA/vpn/printscreen/2.png)
+![Image alt](https://github.com/Sergey-SSA/vpn/blob/master/printscreen/2.png)
 
-![Image alt](https://github.com/Sergey-SSA/vpn/printscreen/3.png)
+![Image alt](https://github.com/Sergey-SSA/vpn/blob/master/printscreen/3.png)
 
 Тест iperf3 для tap
 ```
